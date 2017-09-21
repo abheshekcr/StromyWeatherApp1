@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">StromyWeatherApp</string>
+    <string name="error_title">oops no internet connection</string>
+    <string name="error_message">plz try again</string>
+    <string name="error_ok_button">ok</string>
+    <string name="toast_network_message">check network connetction</string>
+    <string name="no_daily_forecast_data">There is no data to display.</string>
+</resources>
